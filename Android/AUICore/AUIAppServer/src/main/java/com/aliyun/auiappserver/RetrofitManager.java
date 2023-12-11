@@ -66,9 +66,8 @@ public class RetrofitManager {
     }
 
     public static class Const {
-        public static final String APP_SERVER_URL_ALIVC = "https://live-api-test.huancang.art";
 //        // 互动直播-内部IM使用的APP Server地址
-//        public static final String APP_SERVER_URL_ALIVC = "http://aui-newppserver-aui-newppserver-kvwbhrkfkw.cn-shanghai.fcapp.run";
+        public static final String APP_SERVER_URL_ALIVC = "http://aui-newppserver-aui-newppserver-kvwbhrkfkw.cn-shanghai.fcapp.run";
 //        // 互动直播-融云IM使用的APP Server地址
 //        public static final String APP_SERVER_URL_RONG_CLOUD = "https://aui-ronppserver-aui-ronppserver-bfnwzrekhj.cn-shanghai.fcapp.run";
 //        // 企业直播-内部IM使用的APP Server地址
